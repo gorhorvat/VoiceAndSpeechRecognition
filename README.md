@@ -1,5 +1,4 @@
-# VoiceAndSpeechRecognition - Praktični dio završnog rada
-## Tema : Prepoznavanje glasa i govora
+# Prepoznavanje glasa i govora - Praktični dio završnog rada
 ## Autor : Goran Horvat
 ### Mentor : Dr. sc. Miroslav Bača, suocjenjivač : Dr. sc. Petra Grd
 
