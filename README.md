@@ -1,8 +1,7 @@
 # VoiceAndSpeechRecognition - Praktični dio završnog rada
 ## Tema : Prepoznavanje glasa i govora
 ## Autor : Goran Horvat
-### Mentor : Dr. sc. Miroslav Bača
-### Suocjenjivač : Dr. sc. Petra Grd
+### Mentor : Dr. sc. Miroslav Bača, suocjenjivač : Dr. sc. Petra Grd
 
 Izvršena dorada sljedećih funkcionalnosti:
 - Enrollment identifikacijskih profila
