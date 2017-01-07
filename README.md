@@ -1,2 +1,17 @@
-# VoiceAndSpeechRecognition
-"Speech and Speaker recognition" - final project for Business Systems Bachelor degree thesis
+# Prepoznavanje glasa i govora - Praktični dio završnog rada
+## Autor : Goran Horvat
+### Mentor : Dr. sc. Miroslav Bača, suocjenjivač : Dr. sc. Petra Grd
+
+Izvršena dorada sljedećih funkcionalnosti:
+- Enrollment identifikacijskih profila
+- Reset identifikacijskih profila
+- Prikaz svih identifikacijskih profila
+- Identifikacija datoteka
+- Enrollment verifikacijskih profila
+- Reset verifikacijskih profila
+- Prikaz svih verifikacijskih profila
+- Verifikacija datoteke
+- Snimanje novog audio zapisa
+- Prikaz valnog oblika i spektrograma audio zapisa
+- Prepoznavanje govora na temelju modula "speech-to-text"
+- Autentifikacija korisnika
